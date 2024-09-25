@@ -32,7 +32,7 @@ Sublit, we simplify subletting by providing a transparent and secure platform th
 ## User Requirements
 
 
-1. As an NYC summer intern, I want to find a shor-term rental so that I have a place to live during my internship.
+1. As an NYC summer intern, I want to find a short-term rental so that I have a place to live during my internship.
 
 2. As an NYU student who doesn't stay for summer, I want to sublet my apartment so that I'm not losing money on rent.
 
