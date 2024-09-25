@@ -66,8 +66,4 @@ Sublit, we simplify subletting by providing a transparent and secure platform th
 
 ## Clickable Prototype
 
-Clickable Prototype 1:
-- https://www.figma.com/proto/OgbVZP6ERLkOeyzsBWvODs/SW-Wireframe-Diagram-1?t=qi3zX3UBPlssUQ10-1
-
-Clickable Prototype 2:
-- https://www.figma.com/proto/kjmep7eownWM4b4n2SXHpA/SW-Wireframe-Diagram-2?node-id=0-1&t=h7rv2pQRa428nZUE-1 
+https://www.figma.com/proto/OgbVZP6ERLkOeyzsBWvODs/SW-Wireframe-Diagram-1?node-id=0-1&t=xCmNHRBqzDvqgTTJ-1 
